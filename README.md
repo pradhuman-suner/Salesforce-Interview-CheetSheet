@@ -1,4 +1,4 @@
-##CheckOut 
+<ins>**CheckOut**</ins>
 
 **Salesforce Answers.md** : For Qustions and Answers for real interviews
 
@@ -6,6 +6,7 @@
 
 **Salesforce Interview Notes.md** : Notes to go throught before Interview
 
+---
 **Description:**
 
 Welcome to the Salesforce Interview Cheat Sheet repository! 🚀

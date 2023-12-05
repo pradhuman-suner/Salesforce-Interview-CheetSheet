@@ -1,6 +1,3 @@
-
-**Title: Salesforce Interview Cheat Sheet**
-
 **Description:**
 
 Welcome to the Salesforce Interview Cheat Sheet repository! 🚀
